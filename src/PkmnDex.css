@@ -1,0 +1,14 @@
+.PkmnDex{
+    text-align: center;
+}
+.PkmnDex-Cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.PkmnDex-winner{
+    color: green;
+}
+.PkmnDex-loser{
+    color: red;
+}
